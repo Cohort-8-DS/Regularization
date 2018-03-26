@@ -1,0 +1,2 @@
+# Regularization
+Ridge Regression 
